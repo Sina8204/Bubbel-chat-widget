@@ -1,5 +1,7 @@
 # Chat Bubble Widget
 
+[English](Docs\English\README.md) _ [فارسی](Docs\Persian\README.md)
+
 A lightweight and extensible Bubble Chat widget for PySide6 that displays user and contact messages as chat bubbles, supports a "typing" (Waiting) state with GIF animation, and automatically switches between single-line and multi-line input.
 
 ---
